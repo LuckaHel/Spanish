@@ -12,6 +12,8 @@ def load_dictionary(filename):
     return dictionary
 
 
+
+
 # Quiz in Spanish to English mode
 def spanish_to_english(dictionary):
     words = list(dictionary.keys())
